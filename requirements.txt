@@ -1,0 +1,12 @@
+deepgram-sdk
+openai-whisper
+torch
+jiwer
+pandas
+matplotlib
+numpy
+soundfile
+librosa
+pydub
+tqdm
+google-cloud-speech`
