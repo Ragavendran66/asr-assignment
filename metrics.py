@@ -2,7 +2,7 @@ import pandas as pd
 from jiwer import wer
 
 ground_truth = pd.read_csv("ground_truth.csv")
-predictions = pd.read_csv("output/whisper_output.csv")
+predictions = pd.read_csv("outputs/whisper_output.csv")
 
 
 df = pd.merge(
